@@ -1,0 +1,319 @@
+{
+    "minComponents": 2,
+    "maxComponents": 2,
+    "bOverrideMapRoom": false,
+    "TechWeights": {
+        "None": "0",
+        "CalciteOld": "0",
+        "DolomiteOld": "0",
+        "FlintOld": "0",
+        "EmeryOld": "0",
+        "MercuryOre": "0",
+        "Placeholder": "0",
+        "CarbonOld": "0",
+        "EthanolOld": "0",
+        "EthyleneOld": "0",
+        "Magnesium": "0",
+        "HydrogenOld": "0",
+        "Lodestone": "0",
+        "SandLoot": "0",
+        "Battery": "0.5",
+        "BatteryAcidOld": "0",
+        "TitaniumIngot": "0.5",
+        "AdvancedWiringKit": "0.5",
+        "PlasteelIngot": "0.5",
+        "EnameledGlass": "0.5",
+        "Enamel": "0",
+        "AcidOld": "0",
+        "VesselOld": "0",
+        "CombustibleOld": "0",
+        "OpalGem": "0",
+        "Uranium": "0",
+        "HydrochloricAcid": "0.5",
+        "AminoAcids": "0",
+        "Polyaniline": "0.5",
+        "Graphene": "0",
+        "Nanowires": "0",
+        "Lubricant": "0.5",
+        "ReactorRod": "0",
+        "DepletedReactorRod": "0",
+        "PrecursorIonCrystalMatrix": "0",
+        "DiveSuit": "0",
+        "Fins": "0",
+        "Tank": "0",
+        "Knife": "0",
+        "Drill": "0",
+        "Flashlight": "0",
+        "Beacon": "0",
+        "Builder": "0",
+        "EscapePod": "0",
+        "Compass": "0",
+        "AirBladder": "0",
+        "Terraformer": "0",
+        "Pipe": "0",
+        "Thermometer": "0",
+        "DiveReel": "0",
+        "Rebreather": "0",
+        "RadiationSuit": "0",
+        "RadiationHelmet": "0",
+        "RadiationGloves": "0",
+        "ReinforcedDiveSuit": "0",
+        "Scanner": "0",
+        "FireExtinguisher": "0",
+        "MapRoomHUDChip": "0",
+        "PipeSurfaceFloater": "0",
+        "CyclopsDecoy": "0.5",
+        "ReinforcedGloves": "0",
+        "Constructor": "0",
+        "Transfuser": "0",
+        "StasisRifle": "0",
+        "BuildBot": "0",
+        "PlasteelTank": "0",
+        "HighCapacityTank": "0",
+        "UltraGlideFins": "0",
+        "SwimChargeFins": "0",
+        "Stillsuit": "0",
+        "CompostCreepvine": "0",
+        "ProcessUranium": "0",
+        "SafeShallowsEgg": "0",
+        "KelpForestEgg": "0",
+        "GrassyPlateausEgg": "0",
+        "GrandReefsEgg": "0",
+        "MushroomForestEgg": "0",
+        "KooshZoneEgg": "0",
+        "TwistyBridgesEgg": "0",
+        "LavaZoneEgg": "0",
+        "StalkerEgg": "0",
+        "ReefbackEgg": "0",
+        "SpadefishEgg": "0",
+        "RabbitrayEgg": "0",
+        "MesmerEgg": "0",
+        "JumperEgg": "0",
+        "SandsharkEgg": "0",
+        "JellyrayEgg": "0",
+        "BonesharkEgg": "0",
+        "CrabsnakeEgg": "0",
+        "ShockerEgg": "0",
+        "GasopodEgg": "0",
+        "RabbitrayEggUndiscovered": "0",
+        "JellyrayEggUndiscovered": "0",
+        "StalkerEggUndiscovered": "0",
+        "ReefbackEggUndiscovered": "0",
+        "JumperEggUndiscovered": "0",
+        "BonesharkEggUndiscovered": "0",
+        "GasopodEggUndiscovered": "0",
+        "MesmerEggUndiscovered": "0",
+        "SandsharkEggUndiscovered": "0",
+        "ShockerEggUndiscovered": "0",
+        "GenericEgg": "0",
+        "CrashEgg": "0",
+        "CrashEggUndiscovered": "0",
+        "CrabsquidEgg": "0",
+        "CrabsquidEggUndiscovered": "0",
+        "CutefishEgg": "0",
+        "CutefishEggUndiscovered": "0",
+        "LavaLizardEgg": "0",
+        "LavaLizardEggUndiscovered": "0",
+        "CrabsnakeEggUndiscovered": "0",
+        "SpadefishEggUndiscovered": "0",
+        "HullReinforcementModule": "0",
+        "HullReinforcementModule2": "0",
+        "HullReinforcementModule3": "0",
+        "HatchingEnzymes": "0",
+        "CyclopsShieldModule": "0",
+        "CyclopsSonarModule": "0",
+        "CyclopsSeamothRepairModule": "0",
+        "CyclopsDecoyModule": "0",
+        "CyclopsFireSuppressionModule": "0",
+        "CyclopsFabricator": "0",
+        "CyclopsThermalReactorModule": "0",
+        "CyclopsHullModule3": "0",
+        "SeamothReinforcementModule": "0",
+        "VehiclePowerUpgradeModule": "0",
+        "SeamothSolarCharge": "0",
+        "VehicleStorageModule": "0",
+        "SeamothElectricalDefense": "0",
+        "VehicleArmorPlating": "0",
+        "SeamothTorpedoModule": "0",
+        "SeamothSonarModule": "0",
+        "WhirlpoolTorpedo": "0",
+        "VehicleHullModule1": "0",
+        "VehicleHullModule2": "0",
+        "VehicleHullModule3": "0",
+        "ExosuitJetUpgradeModule": "0",
+        "ExosuitDrillArmModule": "0",
+        "ExosuitThermalReactorModule": "0",
+        "ExosuitClawArmModule": "0",
+        "GasTorpedo": "0",
+        "ExosuitPropulsionArmModule": "0",
+        "ExosuitGrapplingArmModule": "0",
+        "ExosuitTorpedoArmModule": "0",
+        "ExoHullModule1": "0",
+        "ExoHullModule2": "0",
+        "MapRoomUpgradeScanRange": "0",
+        "MapRoomUpgradeScanSpeed": "0",
+        "Creepvine": "0",
+        "CreepvineSeedCluster": "0",
+        "CreepvinePiece": "0",
+        "GasPod": "0"
+    },
+    "RecipeOverrides": [
+        {
+            "overridden": "CyclopsHullFragment",
+            "replacements": [
+                {
+                    "techType": "PlasteelIngot",
+                    "amount": 3
+                },
+                {
+                    "techType": "Lead",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "overridden": "CyclopsBridgeFragment",
+            "replacements": [
+                {
+                    "techType": "EnameledGlass",
+                    "amount": 3
+                },
+                {
+                    "techType": "Lead",
+                    "amount": 1
+                },
+                {
+                    "techType": "PlasteelIngot",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "overridden": "CyclopsEngineFragment",
+            "replacements": [
+                {
+                    "techType": "Lubricant",
+                    "amount": 1
+                },
+                {
+                    "techType": "AdvancedWiringKit",
+                    "amount": 1
+                },
+                {
+                    "techType": "Lead",
+                    "amount": 2
+                },
+                {
+                    "techType": "PlasteelIngot",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "overridden": "CyclopsDockingBayFragment",
+            "replacements": [
+                {
+                    "techType": "PlasteelIngot",
+                    "amount": 3
+                },
+                {
+                    "techType": "Lead",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "overridden": "ThermalPlantFragment",
+            "replacements": [
+                {
+                    "techType": "Aerogel",
+                    "amount": 1
+                },
+                {
+                    "techType": "Titanium",
+                    "amount": 5
+                },
+                {
+                    "techType": "Magnetite",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "overridden": "BaseMapRoomFragment",
+            "replacements": [
+                {
+                    "techType": "Titanium",
+                    "amount": 5
+                },
+                {
+                    "techType": "Copper",
+                    "amount": 2
+                },
+                {
+                    "techType": "Gold",
+                    "amount": 1
+                },
+                {
+                    "techType": "JeweledDiskPiece",
+                    "amount": 1
+                }
+            ]
+        }
+    ],
+    "SubstitutionList": [
+        {
+            "replacedTech": "AdvancedWiringKit",
+            "replacements": [
+                {
+                    "techType": "Silver",
+                    "amount": 2
+                },
+                {
+                    "techType": "ComputerChip",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "replacedTech": "PlasteelIngot",
+            "replacements": [
+                {
+                    "techType": "ScrapMetal",
+                    "amount": 2
+                },
+                {
+                    "techType": "Lithium",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "replacedTech": "TitaniumIngot",
+            "replacements": [
+                {
+                    "techType": "ScrapMetal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "replacedTech": "Battery",
+            "replacements": [
+                {
+                    "techType": "Copper",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "replacedTech": "PowerCell",
+            "replacements": [
+                {
+                    "techType": "Copper",
+                    "amount": 2
+                }
+            ]
+        }
+    ]
+}

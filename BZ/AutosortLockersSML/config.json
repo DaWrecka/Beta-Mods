@@ -1,0 +1,11 @@
+{
+  "EasyBuild": false,
+  "SortInterval": 1.0,
+  "ShowAllItems": false,
+  "AutosorterWidth": 5,
+  "AutosorterHeight": 6,
+  "ReceptacleWidth": 6,
+  "ReceptacleHeight": 8,
+  "StandingReceptacleWidth": 6,
+  "StandingReceptacleHeight": 8
+}
