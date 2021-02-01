@@ -1,5 +1,7 @@
 AutosortLockersSML
 	A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
+ConsoleBatchFiles
+	A BZ recompilation of my mod Console Batch Files, which allows lists of console commands to be gathered in text files then executed in-game with a single command.
 CustomiseOxygen
 	A mod for customising capacities of oxygen tanks. Also contains a mode harkening back to newman55's SN1 mod Refillable Oxygen Tanks
 CustomiseYourStorage_BZ
