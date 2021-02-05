@@ -1,0 +1,14 @@
+{
+  "Id": "WindTurbinesMod",
+  "DisplayName": "Wind Turbines Mod",
+  "Author": "Lee23",
+  "Version": "1.2.4",
+  "Requires": [ ],
+  "Enable": true,
+  "Game": "BelowZero",
+  "AssemblyName": "WindTurbinesMod.dll",
+  "EntryMethod": "WindTurbinesMod.QPatch.Patch",
+   "NexusId": {
+        "Subnautica": "355"
+    }
+}

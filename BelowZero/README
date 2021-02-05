@@ -1,5 +1,7 @@
 AutosortLockersSML
 	A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
+CombinedItems
+	A mod inspired by Alexejhero's More Modified Items. Currently contains one set of items; the Reinforced Cold Suit, a Reinforced Dive Suit (plus gloves) that has the insulating properties of the Cold Suit, along with an Insulated Rebreather, a Rebreather with the insulating properties of the Cold Helmet; more are planned, such as the High Capacity Booster Tank.
 ConsoleBatchFiles
 	A BZ recompilation of my mod Console Batch Files, which allows lists of console commands to be gathered in text files then executed in-game with a single command.
 CustomiseOxygen

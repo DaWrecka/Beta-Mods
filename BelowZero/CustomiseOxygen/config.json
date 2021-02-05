@@ -1,19 +1,12 @@
 {
-    "bAllowAutoRefill": false,
-    "baseOxyMultiplier": "2",
-    "refillableMultiplier": "2.5",
+    "bAllowAutoRefill": true,
+    "baseOxyMultiplier": "1",
+    "refillableMultiplier": "3",
     "defaultTankCapacities": {
         "Tank": "30",
         "DoubleTank": "90",
         "SuitBoosterTank": "90",
         "PlasteelTank": "90",
         "HighCapacityTank": "180"
-    },
-    "CapacityOverrides": {
-        "Tank": "200",
-        "DoubleTank": "400",
-        "SuitBoosterTank": "400",
-        "PlasteelTank": "400",
-        "HighCapacityTank": "800"
     }
 }

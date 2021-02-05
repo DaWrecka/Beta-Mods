@@ -1,12 +1,12 @@
 {
   "Author": "DaWrecka",
-  "DisplayName": "Console Batch Commands",
+  "DisplayName": "Combined Items",
   "VersionDependencies": {
     "SMLHelper": "2.9"
   },
-  "Id": "ConsoleBatchFiles",
-  "AssemblyName": "ConsoleBatchFiles.dll",
-  "Version": "0.8.0.0",
+  "Id": "CombinedItems",
+  "AssemblyName": "CombinedItems.dll",
+  "Version": "1.0.0.0",
   "Enable": true,
   "NexusId": {
     "Subnautica": "610"
