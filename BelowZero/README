@@ -1,16 +1,68 @@
 AutosortLockersSML
 	A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
+
+-------------------------------------------------------------------------
 CombinedItems
-	A mod inspired by Alexejhero's More Modified Items. Currently contains one set of items; the Reinforced Cold Suit, a Reinforced Dive Suit (plus gloves) that has the insulating properties of the Cold Suit, along with an Insulated Rebreather, a Rebreather with the insulating properties of the Cold Helmet; more are planned, such as the High Capacity Booster Tank.
+	A mod inspired by Alexejhero's More Modified Items. As of 2021-03-22, has the following items:
+	The following are crafted from the Workbench:
+	*) High Capacity Booster Tank: Booster tank with capacity of High Capacity Tank
+	
+	The following are crafted from the new Suit Upgrades tab in Workbench:
+	*) Reinforced Cold Suit: combination of Cold Suit and Reinforced Dive Suit. Has body suit and gloves. Unlocked with both Cold Suit and Reinforced Dive Suit.
+	*) Insulated Rebreather: Combination of Rebreather and Cold Helmet. Unlocked when both Cold Suit and Rebreather are unlocked.
+	*) Survival Suit: upgraded Stillsuit which passively regenerates food and water, instead of dumping water packs in inventory. Unlocked with Stillsuit.
+	*) Insulated Survival Suit: combination of Survival Suit and Cold Suit. Unlocked with same.
+	*) Reinforced Survival Suit: Combination of Reinforced Dive Suit and Survival Suit, unlocked with same.
+	*) Ultimate Survival Suit: combination of Reinforced Dive Suit, Cold Suit, and Survival Suit. Can be crafted from Reinforced Suit, Cold Suit, and Survival Suit, or from one of the combinations and its third part.
+	
+	The following are crafted from the Machines section of the Fabricator: (Hoverbike modules are all unlocked with the Hoverbike)
+	*) Powerglide: unlocked by scanning fragments. (see below for list of spawn biomes) Holding Shift provides significant speed bonus, although at significant energy cost.
+	*) Snowfox Engine Efficiency Module: Reduces Snowfox energy consumption
+	*) Snowfox Solar Charger Module: Recharges Snowfox battery while in sunlight.
+	*) Snowfox Speed Module: Increases Snowfox speed, but increases energy consumption while moving.
+	*) Snowfox Structural Integrity Module: reduces damage taken by Snowfox, but consumes energy to do so.
+	*) Snowfox Water Travel Module: allows Snowfox to travel over water
+	*) Snowfox Mobility Upgrade: Combination of Engine Efficiency, Speed, Water Travel, and Jump modules; Supercedes Speed and Efficiency modules; does not provide as large a benefit as either module, but energy consumption is reduced compared to individual modules.
+	
+	The following are crafted from the Vehicle Upgrade Console fabricator:
+	*) Exosuit Lightning Claw Generator: when equipped, attacks with the Exosuit's claw inflict Electrical damage, instantly repelling most marine fauna, including Leviathans.
+
+	Powerglide fragments spawn in the following biomes:
+	Glacier_Generic
+	GlacialBay
+	LilyPads_Deep_Grass
+	LilyPads_Deep_Ground
+	MiningSite_Ground
+	PurpleVents_Deep_Pool_Voxel
+	TwistyBridges_Deep_Ground
+	TwistyBridges_Cave_Ground
+	TwistyBridges_Deep_ThermalVentArea_Ground
+	
+	Note that the Twisty Bridges spawns may be removed prior to release, as being able to unlock the Powerglide this early could be broken. Admittedly, without Parts from Scanning too, unlocking the blueprint this early is of limited value.
+	
+	KNOWN BUGS
+	*) Completing the Powerglide blueprint provides no message - it's only discernible by the *lack* of a message.
+
+-------------------------------------------------------------------------
 ConsoleBatchFiles
 	A BZ recompilation of my mod Console Batch Files, which allows lists of console commands to be gathered in text files then executed in-game with a single command.
+
+-------------------------------------------------------------------------
 CustomiseOxygen
 	A mod for customising capacities of oxygen tanks. Also contains a mode harkening back to newman55's SN1 mod Refillable Oxygen Tanks
+
+-------------------------------------------------------------------------
 CustomiseYourStorage_BZ
 	A mod for customising capacities of storage lockers, including modded lockers.
+
+-------------------------------------------------------------------------
 HabitatBuilderSpeed
 	Increases or decreases the time taken required to build objects with the Habitat Builder
+
+-------------------------------------------------------------------------
 PartsFromScanning_BZ
 	A conversion of my mod Ingredients from Scanning; scanning fragments you already have the blueprint for will grant ingredients from that recipe.
+
+-------------------------------------------------------------------------
 RecyclotronModSupport
 	By default, the Recyclotron cannot be used to deconstruct certain items, mostly modded items, because the method CraftData.GetTechType fails to return a TechType for modded items. This mod re-implements the Recyclotron's GetIngredients method to get the TechType a different way, allowing some - not all - modded items to be recycled.
