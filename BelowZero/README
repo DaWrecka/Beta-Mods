@@ -21,11 +21,16 @@ CombinedItems
 	*) Snowfox Solar Charger Module: Recharges Snowfox battery while in sunlight.
 	*) Snowfox Speed Module: Increases Snowfox speed, but increases energy consumption while moving.
 	*) Snowfox Structural Integrity Module: reduces damage taken by Snowfox, but consumes energy to do so.
+	*) Snowfox Self-Repair Module: Slow passive repair of damage to the Snowfox. Costs energy.
+	*) Snowfox Durability Module: Made by combining the Structural Integrity and Self-Repair Modules.
 	*) Snowfox Water Travel Module: allows Snowfox to travel over water
 	*) Snowfox Mobility Upgrade: Combination of Engine Efficiency, Speed, Water Travel, and Jump modules; Supercedes Speed and Efficiency modules; does not provide as large a benefit as either module, but energy consumption is reduced compared to individual modules.
 	
 	The following are crafted from the Vehicle Upgrade Console fabricator:
 	*) Exosuit Lightning Claw Generator: when equipped, attacks with the Exosuit's claw inflict Electrical damage, instantly repelling most marine fauna, including Leviathans.
+
+	The following are crafted from a new tab in the Personal>Equipment tab of the Fabricator:
+	*) Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to repel everything up to and including a Void Chelicerate; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
 
 	Powerglide fragments spawn in the following biomes:
 	Glacier_Generic
@@ -34,14 +39,12 @@ CombinedItems
 	LilyPads_Deep_Ground
 	MiningSite_Ground
 	PurpleVents_Deep_Pool_Voxel
-	TwistyBridges_Deep_Ground
-	TwistyBridges_Cave_Ground
-	TwistyBridges_Deep_ThermalVentArea_Ground
-	
-	Note that the Twisty Bridges spawns may be removed prior to release, as being able to unlock the Powerglide this early could be broken. Admittedly, without Parts from Scanning too, unlocking the blueprint this early is of limited value.
+
+	Twisty Bridges spawns have been removed as of 2021-06-03
 	
 	KNOWN BUGS
-	*) Completing the Powerglide blueprint provides no message - it's only discernible by the *lack* of a message.
+	*) Completing the Powerglide blueprint provides no message - it's only discernible from an incomplete scan by the *lack* of a message.
+	*) Perimeter Defence System chips work fine in the session in which they are crafted; however, if the game is saved and reloaded, something fails, and the chip becomes nonfunctional, requiring it to be defabricated/Recyclotron'd and then rebuilt.
 
 -------------------------------------------------------------------------
 ConsoleBatchFiles

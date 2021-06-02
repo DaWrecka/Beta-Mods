@@ -21,15 +21,14 @@
         },
 
 		These values result in Quantum Lockers with 4x4 inventory; Small lockers having 5x6; Floor-standing lockers 6x8; Trash cans having 3x4; and so on.
-	StorageSizes catches most storage containers, but not all. The remaining config settings catch those cases.
+	StorageSizes catches most storage containers, but not all. The remaining config settings catch those cases. Modded storage containers will be added to the list when detected. For best results, start up the game with Customise your Storage enabled, then close it and check config.json for any new entries.
 
     "LifepodLockerSize": 
 		Controls the capacity of the locker in the lifepod; values are as above.
 
     "ExosuitConfig": 
 		Controls the capacity of the storage locker on the Exosuit. width controls how many columns, height controls the number of rows; fairly self-explanatory.
-		heightPerModule dictates how many rows are added to the locker for each Storage Module inserted in an upgrade module. The Storage Module is not normally available
-		except through console commands, but CustomiseYourStorage re-enables the recipe; it can be found in the Vehicle Upgrade Console and the Seatruck Upgrade Fabricator.
+		heightPerModule dictates how many rows are added to the locker for each Storage Module inserted in an upgrade module.
 
     "FiltrationConfig": 
 		containerSize dictates the total capacity of the Water Filtration Machine, as with StorageSizes. maxSalt dictates the maximum number of units of salt that the machine will hold
@@ -38,5 +37,18 @@
     "InventorySize": 
 		default size of inventory. Mods such as newman55's Bag Equipment (https://www.nexusmods.com/subnauticabelowzero/mods/85) add additional rows, but this dictates the height of the
 		inventory that such mods build upon.
+
     "BioreactorSize": 
 		Capacity of the bioreactor. This is a separate config because the methods used with StorageSizes fail to catch the Bioreactor.
+		
+	"useDropPodInventory":
+		Valid values: true, false. If set to true, the contents of defaultLifepodLockerInventory will be added to the Drop Pod's locker.
+		
+    "defaultLifepodLockerInventory": []
+		Empty by default. TechTypes in the list will be added to the Drop Pod's inventory at the start of the game, assuming useDropPodInventory is true. An example of a table that would add a standard oxygen tank, set of fins, and one large bottle of filtered water to the drop pod:
+		"defaultLifepodLockerInventory": [
+			"Tank",
+			"Fins",
+			"BigFilteredWater"
+		]
+		

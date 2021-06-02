@@ -2,11 +2,11 @@
   "Author": "DaWrecka",
   "DisplayName": "Combined Items",
   "VersionDependencies": {
-    "SMLHelper": "2.9.3"
+    "SMLHelper": "2.9.6"
   },
   "Id": "CombinedItems",
   "AssemblyName": "CombinedItems.dll",
-  "Version": "0.8.0.3",
+  "Version": "1.0.0.0",
   "Enable": true,
   "NexusId": {
     "Subnautica": "610"
