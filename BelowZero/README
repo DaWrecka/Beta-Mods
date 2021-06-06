@@ -69,3 +69,7 @@ PartsFromScanning_BZ
 -------------------------------------------------------------------------
 RecyclotronModSupport
 	By default, the Recyclotron cannot be used to deconstruct certain items, mostly modded items, because the method CraftData.GetTechType fails to return a TechType for modded items. This mod re-implements the Recyclotron's GetIngredients method to get the TechType a different way, allowing some - not all - modded items to be recycled.
+	
+-------------------------------------------------------------------------
+FuelCells
+	Adds mid-game batteries, capacities roughly mid-way between standard and ion, as upgrades to standard batteries/power cells. Requires CustomBatteries.
