@@ -1,4 +1,4 @@
-#My mods
+# My mods
 ## CombinedItems
 DELETED - superceded by DWEquipmentBonanza
 ## DWEquipmentBonanza
@@ -72,7 +72,7 @@ A conversion of my mod Ingredients from Scanning; scanning fragments you already
 ## RecyclotronModSupport
 By default, the Recyclotron cannot be used to deconstruct certain items, mostly modded items, because the method CraftData.GetTechType fails to return a TechType for modded items. This mod re-implements the Recyclotron's GetIngredients method to get the TechType a different way, allowing some - not all - modded items to be recycled.
 
-#Not-mine mods
+# Not-mine mods
 ## AutosortLockersSML
 A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
 ## WindTurbinesMod
