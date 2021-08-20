@@ -6,13 +6,13 @@
   "Dependencies": [
     "SMLHelper"
   ],
-  "Game": "BelowZero",
+  "Game": "Subnautica",
   "AssemblyName": "CustomiseOxygen.dll",
   "VersionDependencies": {
     "SMLHelper": "2.9.6"
   },
   "VersionChecker": {
-    "LatestVersionURL": "https://raw.githubusercontent.com/DaWrecka/DaWreckasSubnauticaStuff/master/CustomiseOxygen/mod_BZ.json"
+    "LatestVersionURL": "https://raw.githubusercontent.com/DaWrecka/DaWreckasSubnauticaStuff/master/CustomiseOxygen/mod_SN1.json"
   },
   "NexusId": {},
   "Enable": true

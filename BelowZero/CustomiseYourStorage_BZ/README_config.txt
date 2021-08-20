@@ -21,7 +21,7 @@
         },
 
 		These values result in Quantum Lockers with 4x4 inventory; Small lockers having 5x6; Floor-standing lockers 6x8; Trash cans having 3x4; and so on.
-	StorageSizes catches most storage containers, but not all. The remaining config settings catch those cases. Modded storage containers will be added to the list when detected. For best results, start up the game with Customise your Storage enabled, then close it and check config.json for any new entries.
+	StorageSizes catches most storage containers, but not all. The remaining config settings catch those cases. Modded storage containers will be added to the list when detected. For best results, start up the game with Customise your Storage enabled, start a Creative game and build every single storage-type thing, then close the game and check config.json for any new entries.
 
     "LifepodLockerSize": 
 		Controls the capacity of the locker in the lifepod; values are as above.
@@ -50,5 +50,10 @@
 			"Tank",
 			"Fins",
 			"BigFilteredWater"
+		]
+		If one item is to be added multiple times, include it in the list multiple times, for example:
+		"defaultLifepodLockerInventory": [
+			"Titanium",
+			"Titanium"
 		]
 		

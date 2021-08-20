@@ -11,3 +11,10 @@ Case sensitivity depends on your operating system; under Windows for example,
 and
 	exec seamoth.txt
 would be equally-valid and execute the same file; if you're running SN in Linux or MacOS, this will not be the case.
+
+====================================================================================================================================================
+As of version 1.1, the processing of the batch file has been changed to an coroutine. This allows for a new command, valid only within a batch file:
+
+wait X
+
+X is the number of seconds to pause before processing the next command in the batch.
