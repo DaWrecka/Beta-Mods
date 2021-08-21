@@ -7,7 +7,7 @@
     "SMLHelper"
   ],
   "Game": "BelowZero",
-  "AssemblyName": "PartsFromScanning.dll",
+  "AssemblyName": "PartsFromScanning_BZ.dll",
   "VersionDependencies": {
     "SMLHelper": "2.9.6"
   },

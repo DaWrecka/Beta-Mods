@@ -7,7 +7,7 @@
     "SMLHelper"
   ],
   "Game": "BelowZero",
-  "AssemblyName": "CustomiseYourStorage.dll",
+  "AssemblyName": "CustomiseYourStorage_BZ.dll",
   "VersionDependencies": {
     "SMLHelper": "2.9.6"
   },
