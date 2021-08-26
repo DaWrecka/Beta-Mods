@@ -1,7 +1,7 @@
 # My mods
 ## CombinedItems
 DELETED - superceded by DWEquipmentBonanza
-## DWEquipmentBonanza
+## DWEquipmentBonanza (requires CustomDataboxes)
 A mod inspired by Alexejhero's More Modified Items. As of 2021-03-22, has the following items:
 The following are crafted from the Workbench:
 * High Capacity Booster Tank: Booster tank with capacity of High Capacity Tank
@@ -58,7 +58,7 @@ A BZ recompilation of my mod Console Batch Files, which allows lists of console 
 A mod for customising capacities of oxygen tanks. Also contains a mode harkening back to newman55's SN1 mod Refillable Oxygen Tanks
 ## CustomiseYourStorage_BZ
 A mod for customising capacities of storage lockers, including modded lockers.
-## FuelCells
+## FuelCells (requires CustomBatteries)
 Adds mid-game batteries, by default positioned somewhere between standard and ion batteries. Also enables Lithium Ion Batteries and Power Cells as minor upgrades to the standard cells, and code which can be used to change the capacities of vanilla batteries/power cells. (documentation to follow)
 	Requires CustomBatteries.
 ## GravTrapBeacons
