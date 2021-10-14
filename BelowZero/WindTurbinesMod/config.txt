@@ -1,8 +1,0 @@
-{
-	"PositionInfluencesPower": true,
-	"TurbineTakesDamage": true,
-	"TurbineMakesNoise": true,
-	"MaxPower": 750,
-	"SecondsUntilNeedMaintenance": 1800,
-	"PowerProductionScale": 0.8
-}
