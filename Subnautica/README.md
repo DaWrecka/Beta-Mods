@@ -52,3 +52,5 @@ Increases or decreases the time taken required to build objects with the Habitat
 A conversion of my mod Ingredients from Scanning; scanning fragments you already have the blueprint for will grant ingredients from that recipe.
 ## TrueSolarPowerCells
 Changes the solar power cells in the Escape Pod so that they actually charge from the sun, at a comparable rate to a craftable solar panel.
+## UnlockCustomisation
+Customise what blueprints unlock and when. Samples and help can be found in the config files.

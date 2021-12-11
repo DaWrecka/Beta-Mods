@@ -71,6 +71,8 @@ Increases or decreases the time taken required to build objects with the Habitat
 A conversion of my mod Ingredients from Scanning; scanning fragments you already have the blueprint for will grant ingredients from that recipe.
 ## RecyclotronModSupport
 By default, the Recyclotron cannot be used to deconstruct certain items, mostly modded items, because the method CraftData.GetTechType fails to return a TechType for modded items. This mod re-implements the Recyclotron's GetIngredients method to get the TechType a different way, allowing some - not all - modded items to be recycled.
+## UnlockCustomisation
+Customise what blueprints unlock and when. Samples and help can be found in the config files.
 
 # Not-mine mods
 ## AutosortLockersSML
