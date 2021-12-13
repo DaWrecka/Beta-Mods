@@ -19,7 +19,7 @@ The following are crafted from the Vehicle Upgrade Console fabricator:
 * Exosuit Lightning Claw Generator: when equipped, attacks with the Exosuit's claw inflict Electrical damage, instantly repelling most marine fauna, including Leviathans.
 
 The following are crafted from a new tab in the Personal>Equipment tab of the Fabricator:
-* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to repel everything up to and including a Void Chelicerate; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
+* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to temporarily-repel everything up to and including a Void Leviathan; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
 
 Powerglide fragments spawn in the following biomes:
 	Dunes_TechSite
@@ -41,7 +41,6 @@ A mod for customising capacities of oxygen tanks. Also contains a mode harkening
 A mod for customising capacities of storage lockers, including modded lockers.
 ## FuelCells (requires CustomBatteries)
 Adds mid-game batteries, by default positioned somewhere between standard and ion batteries. Also enables Lithium Ion Batteries and Power Cells as minor upgrades to the standard cells, and code which can be used to change the capacities of vanilla batteries/power cells. (documentation to follow)
-	Requires CustomBatteries.
 ## GravTrapBeacons
 Adds beacons to Grav Traps, and allows them to be seen from any distance.
 CAUTION: Whether or not a grav trap remains visible from long distances following a game reload is untested. To be safe, do not save if you have a grav trap at distance greater than 40m.

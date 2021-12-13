@@ -15,7 +15,7 @@ The following are crafted from the new Suit Upgrades tab in Workbench:
 * Survival Suit: upgraded Stillsuit which passively regenerates food and water, instead of dumping water packs in inventory. Unlocked with Stillsuit.
 * Insulated Survival Suit: combination of Survival Suit and Cold Suit. Unlocked with same.
 * Reinforced Survival Suit: Combination of Reinforced Dive Suit and Survival Suit, unlocked with same.
-* Ultimate Survival Suit: combination of Reinforced Dive Suit, Cold Suit, and Survival Suit. Can be crafted from Reinforced Suit, Cold Suit, and Survival Suit, or from one of the combinations and its third part.
+* Ultimate Survival Suit: combination of Reinforced Dive Suit, Cold Suit, and Survival Suit. Can be crafted from Reinforced Suit, Cold Suit, and Survival Suit, or from one of the combinations and its third part. (e.g. Insulated Survival Suit + Reinforced Dive Suit)
 
 The following are crafted from the Machines section of the Fabricator:
 * Powerglide: unlocked by scanning fragments. (see below for list of spawn biomes) Holding Shift provides significant speed bonus, although at significant energy cost.
@@ -34,10 +34,10 @@ The following are crafted from the Vehicle Upgrade Console fabricator:
 * Exosuit Lightning Claw Generator: when equipped, attacks with the Exosuit's claw inflict Electrical damage, instantly repelling most marine fauna, including Leviathans.
 * Seatruck Solar Module: Charges power cells when Seatruck is within 200m of the surface. May be stacked up to four times.
 * Seatruck Thermal Module: Charges power cells when Seatruck is in hot areas. (25C or higher) Not stackable.
-* Seatruck Sonar Module: Press the associated hotkey to toggle the module; press it a second time to toggle it off. Acts exactly as the Seamoth sonar module did in SN1.
+* Seatruck Sonar Module: Press the associated hotkey to toggle the module; press it a second time to toggle it off. Otherwise acts exactly as the Seamoth sonar module did in SN1.
 
 The following are crafted from a new tab in the Personal>Equipment tab of the Fabricator:
-* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to repel everything up to and including a Void Chelicerate; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
+* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to temporarily-repel everything up to and including a Void Leviathan; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
 
 Powerglide fragments spawn in the following biomes:
 	LilyPads_Deep_Grass
