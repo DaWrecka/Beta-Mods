@@ -81,5 +81,5 @@ Customise capacities of vanilla batteries. Could be used to customise mod batter
 A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
 ## WindTurbinesMod
 A BZ conversion of Lee23's Wind Turbines.
-## Prawn Suit Arm Switcher
-Conversion of weskey007's Prawn Suit Arm Switcher; please do not distribute
+## Custom Batteries BZ
+Below Zero-compatible version of Custom Batteries, built from PrimeSonic's source.
