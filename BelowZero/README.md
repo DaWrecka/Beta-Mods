@@ -83,3 +83,5 @@ A BZ conversion of PrimeSonic's conversion of RandyKnapp's Autosort Lockers
 A BZ conversion of Lee23's Wind Turbines.
 ## Custom Batteries BZ
 Below Zero-compatible version of Custom Batteries, built from PrimeSonic's source.
+## Resource Monitor
+Port of Waisie Milliams's Resource Monitor, distributed with permission.
