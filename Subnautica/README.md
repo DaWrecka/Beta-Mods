@@ -1,4 +1,4 @@
-# My mods
+# My Subnautica 1 mods
 ## BrineSuit
 DELETED - has been integrated into DWEquipmentBonanza
 ## DWEquipmentBonanza (requires CustomDataboxes)
@@ -17,9 +17,17 @@ The following are crafted from the Machines section of the Fabricator:
 
 The following are crafted from the Vehicle Upgrade Console fabricator:
 * Exosuit Lightning Claw Generator: when equipped, attacks with the Exosuit's claw inflict Electrical damage, instantly repelling most marine fauna, including Leviathans.
+* Exosuit Solar Module: Charges Exosuit power cells in sunlight. Limited stacking ability.
+* Exosuit Solar Module Mk2: Charges Exosuit power cells in sunlight, and has an internal battery. Limited stacking ability.
+* Exosuit Thermal Module Mk2: Charges Exosuit power cells in heat, and has an internal battery. Limited stacking ability.
+* Exosuit Unified Chargine Module: Charges Exosuit power cells in sunlight and/or heat. Has an internal battery. Limited stacking ability.
+* SeaMoth Solar Module Mk2: Charges SeaMoth power cell in sunlight, and has an internal battery. Limited stacking ability.
+* SeaMoth Thermal Module Mk2: Charges SeaMoth power cell in heat, and has an internal battery. Limited stacking ability.
+* SeaMoth Thermal Module Mk2: Charges SeaMoth power cell in heat, and has an internal battery. Limited stacking ability.
+* SeaMoth Unified Chargine Module: Charges SeaMoth power cell in sunlight and/or heat. Has an internal battery. Limited stacking ability.
 
 The following are crafted from a new tab in the Personal>Equipment tab of the Fabricator:
-* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to temporarily-repel everything up to and including a Void Leviathan; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
+* Diver Perimeter Defence Chip: a chip which inflicts electrical damage on predators just before they inflict damage. This is enough to repel everything up to and including a Void Leviathan; however, the chip only works once and is then burned out. Mk2 and Mk3 versions are available.
 
 Powerglide fragments spawn in the following biomes:
 	Dunes_TechSite
@@ -41,9 +49,9 @@ A mod for customising capacities of oxygen tanks. Also contains a mode harkening
 A mod for customising capacities of storage lockers, including modded lockers.
 ## FuelCells (requires CustomBatteries)
 Adds mid-game batteries, by default positioned somewhere between standard and ion batteries. Also enables Lithium Ion Batteries and Power Cells as minor upgrades to the standard cells.
+	Requires CustomBatteries.
 ## GravTrapBeacons
 Adds beacons to Grav Traps, and allows them to be seen from any distance.
-CAUTION: Whether or not a grav trap remains visible from long distances following a game reload is untested. To be safe, do not save if you have a grav trap at distance greater than 40m.
 Compatible with Improved Grav Traps.
 ## HabitatBuilderSpeed
 Increases or decreases the time taken required to build objects with the Habitat Builder. Fully-configurable from in-game options.
@@ -55,3 +63,5 @@ Changes the solar power cells in the Escape Pod so that they actually charge fro
 Customise what blueprints unlock and when. Samples and help can be found in the config files.
 ## Power Over Your Power
 Customise capacities of vanilla batteries. Could be used to customise mod batteries too, but this should only be done if they have no configuration themselves.
+## Unaggressive Flora
+Makes Spike Plants ignore players. They may still target fauna, just not players.
